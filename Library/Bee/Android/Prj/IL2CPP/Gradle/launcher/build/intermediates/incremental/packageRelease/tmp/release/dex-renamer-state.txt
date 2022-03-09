@@ -1,0 +1,4 @@
+#Wed Feb 23 14:51:24 SGT 2022
+base.0=C\:\\CS4240Projects\\Lab3\\Assignment2V1\\Library\\Bee\\Android\\Prj\\IL2CPP\\Gradle\\launcher\\build\\intermediates\\dex\\release\\mergeDexRelease\\classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
